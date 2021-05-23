@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToSRS", "ImageToSRS\ImageToSRS.csproj", "{F2B3A56D-DD80-4325-9C64-37D1134AAF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B3A56D-DD80-4325-9C64-37D1134AAF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B3A56D-DD80-4325-9C64-37D1134AAF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B3A56D-DD80-4325-9C64-37D1134AAF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B3A56D-DD80-4325-9C64-37D1134AAF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F06F2C2-BC29-46E8-A47F-69393B969AC5}
+	EndGlobalSection
+EndGlobal
