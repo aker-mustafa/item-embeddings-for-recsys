@@ -1,4 +1,4 @@
-# item-embeddings-for-recsys
+# Next Item Prediction Using Neural Networks with Embedding Initialized Weights
 
 Investigation of the effect of initial weights over neural network based next item prediction.
 
